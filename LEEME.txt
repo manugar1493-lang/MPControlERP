@@ -1,0 +1,26 @@
+FactuPro v2.0 — Sistema de Facturación ERP
+República Dominicana
+==========================================
+
+INSTALACIÓN (primera vez):
+  1. Doble clic en: instalar.bat
+
+INICIAR LA APLICACIÓN:
+  - Escritorio (ventana):  iniciar.bat
+  - Solo navegador:        iniciar_web.bat
+
+LICENCIA:
+  - Al iniciar por primera vez se crea una licencia de 30 días automáticamente
+  - Para generar licencias para clientes: generar_licencia.bat
+  - El archivo de licencia es: factupro.lic
+
+MIGRACIÓN DE BASE DE DATOS (si actualizas desde v1):
+  - Ejecutar: migrar.bat (una sola vez)
+
+CREDENCIALES POR DEFECTO:
+  Email:      admin@factupro.com
+  Password:   Admin123!
+  (Cambiarlas desde Usuarios > Mi perfil)
+
+SOPORTE:
+  - Log de errores: factupro_error.log
